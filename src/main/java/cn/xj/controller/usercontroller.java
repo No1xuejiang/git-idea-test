@@ -1,4 +1,7 @@
 package cn.xj.controller;
 
 public class usercontroller {
+    public static void main(String[] args) {
+        System.out.println("hello git!!!");
+    }
 }
